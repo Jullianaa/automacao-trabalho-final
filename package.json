@@ -1,0 +1,13 @@
+{
+  "name": "pgats-automacao-web-2026",
+  "version": "1.0.0",
+  "description": "Automação de Testes em Cypress - PGATS",
+  "main": "index.js",
+  "scripts": {
+  "test": "cypress run"
+  },
+  "devDependencies": {
+  "cypress": "^13.7.3",
+  "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}
